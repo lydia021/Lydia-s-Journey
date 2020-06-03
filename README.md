@@ -6,7 +6,7 @@ My very first page.
 
 
 ## Shenzhen, China
-### Check out more of my stories in China!
+### Check out more of my stories in China :)
 
 ## Vancouver, Canada
-### Check out more of my stories in Canada!
+### Check out more of my stories in Canada :)
