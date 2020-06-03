@@ -2,7 +2,7 @@
 
 My very first page.
 
-![https://github.com/lydia021/exercise-2/blob/master/totoro.jpg]
+![test image](https://github.com/lydia021/exercise-2/blob/master/totoro.jpg)
 
 ### Markdown
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![https://github.com/lydia021/exercise-2/blob/master/totoro.jpg]
+![test image](https://github.com/lydia021/exercise-2/blob/master/totoro.jpg)
 
 [Link](url) and ![Image](src)
 ```
