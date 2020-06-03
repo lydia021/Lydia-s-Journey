@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Lydia's Page
 
-You can use the [editor on GitHub](https://github.com/lydia021/exercise-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My very first page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
