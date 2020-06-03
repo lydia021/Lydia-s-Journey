@@ -2,7 +2,7 @@
 
 My very first page.
 
-
+![https://github.com/lydia021/exercise-2/blob/master/totoro.jpg]
 
 ### Markdown
 
